@@ -217,6 +217,7 @@ For general JavaScript, CSS, and HTML knowledge.
 
 ![image](https://github.com/user-attachments/assets/d211857b-18e8-4824-9366-74cb18af5bb4)
 ![image](https://github.com/user-attachments/assets/8ad11c50-faa0-4df7-a91f-c6ce240ca7f1)
+![image](https://github.com/user-attachments/assets/1d0d2e72-6170-4817-a9a1-5d62b8edecfc)
 
 
 
