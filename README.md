@@ -213,8 +213,11 @@ For general JavaScript, CSS, and HTML knowledge.
 
 
 
+![image](https://github.com/user-attachments/assets/766dd815-6117-4c04-a7eb-7de5817b3de2)
 
 ![image](https://github.com/user-attachments/assets/d211857b-18e8-4824-9366-74cb18af5bb4)
+![image](https://github.com/user-attachments/assets/8ad11c50-faa0-4df7-a91f-c6ce240ca7f1)
+
 
 
 
